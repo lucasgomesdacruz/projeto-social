@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: rgba(128, 0, 128, 0.493);
     background-size: cover;
     background-attachment: fixed;
 }
